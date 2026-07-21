@@ -1,16 +1,22 @@
-## Hi there 👋
+# Digital Al-Jazari for AI & Research Innovation
 
-<!--
-**DigitalAljazari/DigitalAlJazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of Digital Al-Jazari for AI & Research Innovation.
 
-Here are some ideas to get you started:
+## Our Mission
+Advancing artificial intelligence, research innovation, water sustainability, education, and humanitarian knowledge for a better future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Areas
+- Artificial Intelligence
+- Research Innovation
+- Water Sustainability
+- Climate Action
+- Education
+- Humanitarian Knowledge
+
+## Official Website
+https://digitalaljazari.org
+
+## Contact
+contact@digitalaljazari.org 👋
+
+
